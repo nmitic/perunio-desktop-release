@@ -44,7 +44,7 @@
 
 ## Instalación
 
-1. Descarga el instalador `Perunio Desktop Setup x.y.z.exe` desde la **[última versión](https://github.com/nmitic/perunio-desktop-release/releases/latest)**.
+1. Descarga el instalador `Perunio-Desktop-x.y.z-win-x64.exe` desde la **[última versión](https://github.com/nmitic/perunio-desktop-release/releases/latest)**.
 2. Ábrelo y sigue los pasos.
 3. Inicia sesión con tu cuenta de Perunio. ¿Aún no tienes una? **[Créala en perunio.pe](https://perunio.pe/planes)**.
 
